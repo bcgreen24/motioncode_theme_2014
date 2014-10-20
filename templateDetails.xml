@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/2.5/template-install.dtd">
 <extension version="2.5" type="template" client="site" method="upgrade">
-	<name>jsn_pixel_free</name>
+	<name>Motioncode Design</name>
 	<edition>FREE</edition>
-	<version>3.0.3</version>
-	<creationDate>09/26/2014</creationDate>
-	<author>JoomlaShine.com</author>
-	<authorEmail>support@joomlashine.com</authorEmail>
-	<authorUrl>http://www.joomlashine.com</authorUrl>
+	<version>1.0</version>
+	<creationDate>10/19/2014</creationDate>
+	<author>Bryan Green</author>
+	<authorEmail>bcgreen@gmail.com</authorEmail>
+	<authorUrl>http://www.motioncode.net</authorUrl>
 	<copyright>Copyright (c) 2008 - 2013 - JoomlaShine.com</copyright>
 	<license>GNU/GPL v2 http://www.gnu.org/licenses/gpl-2.0.html</license>
 	<description>TPL_JSN_PIXEL_FREE_XML_DESCRIPTION</description>
