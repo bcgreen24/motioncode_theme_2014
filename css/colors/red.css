@@ -20,11 +20,10 @@ a {
     color: #46753a;
 }
 #jsn-master {
-    background: #FFF url(../../images/mc_bkgd.png);
     background-image: url(../../images/mc_bkgd.png);
     background-position: left top;
     background-repeat: repeat-y;
-    background: #DDD url(../../images/mc_bkgd.png);
+    background-color: #ddd;
 }
 /* ============================== LAYOUT ============================== */
 /* =============== LAYOUT - CONTENT TOP AREA =============== */
