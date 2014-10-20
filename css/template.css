@@ -121,7 +121,7 @@ a {
 	text-decoration: none;
 }
 a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 }
 a:active {
 	text-decoration: none;
@@ -704,7 +704,7 @@ div.jsn-hasright #jsn-maincontent_inner {
 }
 #jsn-pos-content-bottom a:hover,
 #jsn-usermodules3 a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 }
 #jsn-content-bottom h3.jsn-moduletitle {
 	color: #fff;
@@ -723,7 +723,7 @@ div.jsn-hasright #jsn-maincontent_inner {
 	color: #fff;
 }
 #jsn-footer a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 }
 #jsn-pos-bottom {
 	text-align: right;
@@ -1250,7 +1250,7 @@ div.solid-2 h3.jsn-moduletitle {
 }
 div.solid-2 a {
 	color: #FFF;
-	text-decoration: underline;
+	text-decoration: none;
 }
 div.solid-2 a.link-action {
 	text-decoration: none;
@@ -1737,7 +1737,7 @@ dl.article-count dd {
 }
 .sectiontableheader a {
 	color: #ffffff;
-	text-decoration: underline;
+	text-decoration: none;
 }
 .sectiontableheader a:hover {
 	text-decoration: none;
@@ -2024,7 +2024,7 @@ span.breadcrumbs span {
 	font-weight: bold;
 }
 span.breadcrumbs a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 }
 span.breadcrumbs span.current {
 	color: #404040;
