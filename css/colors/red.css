@@ -20,11 +20,11 @@ a {
     color: #46753a;
 }
 #jsn-master {
-    background: #FFF url(../../images/colors/red/bg-body.png) center top;
-    background-image: url(../../images/backgrounds/bg-master-gradient.png), url(../../images/mc_bkgd.png);
+    background: #FFF url(../../images/mc_bkgd.png);
+    background-image: url(../../images/mc_bkgd.png);
     background-position: center top, center top;
-    background-repeat: no-repeat, repeat;
-    background: #DDD url(../../images/colors/red/bg-body.png)\9;
+    background-repeat: no-repeat;
+    background: #DDD url(../../images/mc_bkgd.png);
 }
 /* ============================== LAYOUT ============================== */
 /* =============== LAYOUT - CONTENT TOP AREA =============== */
