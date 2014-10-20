@@ -549,7 +549,7 @@ $jsnutils = JSNTplUtils::getInstance();
 			?>
 	</div>
 	<div id="jsn-brand">
-		JSN Pixel template designed by <a href="http://www.joomlashine.com" target="_blank" title="Free Hi-Quality Joomla Templates on JoomlaShine">JoomlaShine.com</a>
+		All content (c)<?php echo date("Y"); ?> Bryan C. Green
 	</div>
 <jdoc:include type="modules" name="debug" />
 </body>
