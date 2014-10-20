@@ -23,7 +23,7 @@ a {
     background: #FFF url(../../images/mc_bkgd.png);
     background-image: url(../../images/mc_bkgd.png);
     background-position: left top;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background: #DDD url(../../images/mc_bkgd.png);
 }
 /* ============================== LAYOUT ============================== */
