@@ -22,7 +22,7 @@ a {
 #jsn-master {
     background: #FFF url(../../images/mc_bkgd.png);
     background-image: url(../../images/mc_bkgd.png);
-    background-position: center top, center top;
+    background-position: left top;
     background-repeat: no-repeat;
     background: #DDD url(../../images/mc_bkgd.png);
 }
