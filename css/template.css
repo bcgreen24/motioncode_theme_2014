@@ -193,6 +193,7 @@ div.jsn-modulescontainer5.jsn-horizontallayout div.jsn-modulecontainer:last-chil
 #jsn-master {
 	background-color: #eaeaea;
 	text-align: center;
+    background-repeat: repeat-y;
 }
 #jsn-page {
 	color: #000;
