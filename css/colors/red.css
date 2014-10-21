@@ -19,11 +19,14 @@
 a {
     color: #46753a;
 }
+
+@media (min-width: 1090px){
 #jsn-master {
     background-image: url(../../images/mc_bkgd.png);
     background-position: left top;
     background-repeat: repeat-y;
     background-color: #ddd;
+    }
 }
 /* ============================== LAYOUT ============================== */
 /* =============== LAYOUT - CONTENT TOP AREA =============== */
