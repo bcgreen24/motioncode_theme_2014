@@ -527,7 +527,7 @@ div[id*=jsn-pos-stick-right] {
 /* =============== LAYOUT - HEADER AREA =============== */
 #jsn-header {
 	margin-bottom: 20px;
-    margin-top: -50px;
+    margin-top: 0px;
 }
 #jsn-header-inner {
 	position: relative;
