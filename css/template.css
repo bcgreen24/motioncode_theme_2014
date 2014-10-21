@@ -677,9 +677,10 @@ div.jsn-hasright #jsn-maincontent_inner {
 	margin-bottom: 20px;
 }
 #jsn-mainbody-content {
-	margin-bottom: 0;
-	padding: 10px;
-    width:720px
+    margin-bottom: 0;
+    padding: 10px;
+    width:720px;
+    margin-left:-20px;
 }
 #jsn-pos-mainbody-top,
 #jsn-pos-mainbody-bottom {
