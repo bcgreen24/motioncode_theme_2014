@@ -2,7 +2,7 @@
 * @author    JoomlaShine.com http://www.joomlashine.com
 * @copyright Copyright (C) 2008 - 2011 JoomlaShine.com. All rights reserved.
 * @license   JoomlaShine.com Proprietary License
-*/
+*//
 /* ============================== DEFAULT HTML ============================== */
 ::selection {
     color: #FFF;
@@ -32,6 +32,9 @@ a {
     color: #7dc654;
     background: #46753a;
 }
+
+
+
 /* =============== LAYOUT - CONTENT BOTTOM AREA =============== */
 #jsn-content-bottom {
     color: #7dc654;
