@@ -644,6 +644,7 @@ div.jsn-hasright #jsn-maincontent_inner {
 #jsn-leftsidecontent,
 #jsn-rightsidecontent {
 	z-index: 87;
+    margin-top: -10px;
 }
 #jsn-leftsidecontent_inner,
 #jsn-rightsidecontent_inner {
