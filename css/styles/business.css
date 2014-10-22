@@ -25,3 +25,7 @@ ul.menu-mainmenu span,
 	font-family: 'VT323', sans-serif;
     font-size: 26px;
 }
+
+ul.jsn-submenu-level-1 a:hover{
+    background-color:#eee;
+}
